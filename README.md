@@ -15,5 +15,3 @@ Este projeto é uma implementação básica do Pinterest, uma plataforma de comp
 - JavaScript
 - Sass
 
-## Instruções de Instalação
-
